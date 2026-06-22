@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Evently.Modules.Events.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07bc5b2463313ac71ebca3564fe775f67cf2f7c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Evently.Modules.Events.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Evently.Modules.Events.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
